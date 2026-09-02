@@ -6,13 +6,13 @@ Real Estate HDR Photography Edit Portfolio
 [![Editing](https://img.shields.io/badge/Modifications-Strictly%20Forbidden-critical.svg)](LICENSE)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-Paid%20License%20Only-red.svg)](LICENSE)
 
-High Dynamic Range (HDR) Real Estate & Architectural Photography by **[Your Full Name]** ([@[YourSocialHandle]](https://yourwebsite.com))
+High Dynamic Range (HDR) Real Estate & Architectural Photography by **Anasimos Mesfin Kebede**
 
 ---
 
 ## 🖼️ Featured Work Preview
 
-![Outdoor HDR Preview](Real Estate HDR Edit/DSC04101.jpg)
+![Living Room HDR Preview](Real Estate HDR Edit/DSC04101.jpg)
 *Sample HDR Bracket Blend — Preview Only (Watermarked)*
 
 ---
