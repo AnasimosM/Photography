@@ -12,7 +12,8 @@ High Dynamic Range (HDR) Real Estate & Architectural Photography by **Anasimos M
 
 ## 🖼️ Featured Work Preview
 
-![Living Room HDR Preview](Real Estate HDR Edit/DSC04101.jpg)
+![Outdoor HDR Preview](Photography
+/Real Estate HDR Edit/DSC04101.jpg)
 *Sample HDR Bracket Blend — Preview Only (Watermarked)*
 
 ---
