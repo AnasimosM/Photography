@@ -12,14 +12,14 @@ High Dynamic Range (HDR) Real Estate & Architectural Photography by **[Your Full
 
 ## 🖼️ Featured Work Preview
 
-![Living Room HDR Preview](previews/property_01_livingroom_hdr.jpg)
+![Outdoor HDR Preview](Real Estate HDR Edit/DSC04101.jpg)
 *Sample HDR Bracket Blend — Preview Only (Watermarked)*
 
 ---
 
 ## 📜 License & Copyright Notice — ALL RIGHTS RESERVED
 
-**© [Year] [Your Full Legal Name]. All Rights Reserved.**
+**© 2026 Anasimos Mesfin Kebede. All Rights Reserved.**
 
 > ⚠️ **NOTICE TO REALTORS, BUILDERS, DESIGNERS & PLATFORMS:**  
 > All photographs in this repository are **protected intellectual property**.  
@@ -43,9 +43,7 @@ High Dynamic Range (HDR) Real Estate & Architectural Photography by **[Your Full
 
 To license existing images or book a real estate photography shoot:
 
-📧 **Email:** `your.email@example.com`  
-🌐 **Website:** `[https://yourwebsite.com]`  
-📷 **Instagram:** `@[YourSocialHandle]`
+📧 **Email:** `anasimosmesmesfinkebede@gmail.com`  
 
 Please specify:
 1. Property address & intended use (MLS, Airbnb, Architect Portfolio, etc.)
