@@ -10,14 +10,6 @@ High Dynamic Range (HDR) Real Estate & Architectural Photography by **Anasimos M
 
 ---
 
-## 🖼️ Featured Work Preview
-
-![Outdoor HDR Preview](Photography
-/Real Estate HDR Edit/DSC04101.jpg)
-*Sample HDR Bracket Blend — Preview Only (Watermarked)*
-
----
-
 ## 📜 License & Copyright Notice — ALL RIGHTS RESERVED
 
 **© 2026 Anasimos Mesfin Kebede. All Rights Reserved.**
