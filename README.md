@@ -6,13 +6,13 @@ Real Estate HDR Photography Edit Portfolio
 [![Editing](https://img.shields.io/badge/Modifications-Strictly%20Forbidden-critical.svg)](LICENSE)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-Paid%20License%20Only-red.svg)](LICENSE)
 
-High Dynamic Range (HDR) Real Estate & Architectural Photography by **@AnasimosM**
+High Dynamic Range (HDR) Real Estate & Architectural Photography by **([AnasimosM](https://github.com/AnasimosM))**
 
 ---
 
 ## 📜 License & Copyright Notice — ALL RIGHTS RESERVED
 
-**© 2026 ' @AnasmosM '. All Rights Reserved.**
+**© 2026 AnasimosM. All Rights Reserved.**
 
 > ⚠️ **NOTICE TO REALTORS, BUILDERS, DESIGNERS & PLATFORMS:**  
 > All photographs in this repository are **protected intellectual property**.  
