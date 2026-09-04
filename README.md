@@ -6,13 +6,13 @@ Real Estate HDR Photography Edit Portfolio
 [![Editing](https://img.shields.io/badge/Modifications-Strictly%20Forbidden-critical.svg)](LICENSE)
 [![Commercial](https://img.shields.io/badge/Commercial%20Use-Paid%20License%20Only-red.svg)](LICENSE)
 
-High Dynamic Range (HDR) Real Estate & Architectural Photography by **Anasimos Mesfin Kebede**
+High Dynamic Range (HDR) Real Estate & Architectural Photography by **@AnasimosM**
 
 ---
 
 ## 📜 License & Copyright Notice — ALL RIGHTS RESERVED
 
-**© 2026 Anasimos Mesfin Kebede. All Rights Reserved.**
+**© 2026 ' @AnasmosM '. All Rights Reserved.**
 
 > ⚠️ **NOTICE TO REALTORS, BUILDERS, DESIGNERS & PLATFORMS:**  
 > All photographs in this repository are **protected intellectual property**.  
@@ -36,7 +36,7 @@ High Dynamic Range (HDR) Real Estate & Architectural Photography by **Anasimos M
 
 To license existing images or book a real estate photography shoot:
 
-📧 **Email:** `anasimosmesmesfinkebede@gmail.com`  
+📧 **Email:** `anasimosm.singularityhorizon@gmail.com`  
 
 Please specify:
 1. Property address & intended use (MLS, Airbnb, Architect Portfolio, etc.)
